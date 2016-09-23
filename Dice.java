@@ -22,7 +22,7 @@ public class Dice {
 	 * between 1 and the number of sides, both inclusive.
 	 * 
 	 * @param size
-	 *            The number of sides the dice will have.
+	 *            The number of sides the dice shall have.
 	 * @return The result of rolling the dice.
 	 */
 
